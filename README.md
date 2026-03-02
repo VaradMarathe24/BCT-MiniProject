@@ -1,1 +1,1 @@
-# BCT-MiniProject
+This mini project in the course of blockchain technology highlights the application of Python in order to store credtis for the transactions that you make while selecting your favourite 11 players in your dream cricket team. 
