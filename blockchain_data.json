@@ -1,0 +1,99 @@
+[
+    {
+        "index": 1,
+        "timestamp": "Wed Oct  8 16:56:12 2025",
+        "data": "Genesis Block",
+        "previous_hash": "0",
+        "hash": "8a449966c69a56e416122c0725a140b409ce14a32374e805e6298bf59125a0bf"
+    },
+    {
+        "index": 2,
+        "timestamp": "Wed Oct  8 16:56:59 2025",
+        "data": {
+            "team": [
+                "Rohit Sharma",
+                "Virat Kohli",
+                "Hardik Pandya",
+                "Jasprit Bumrah",
+                "Mohammed Shami",
+                "Travis Head",
+                "Mitchell Starc",
+                "Jos Buttler",
+                "Jofra Archer",
+                "Josh Hazlewood",
+                "Glenn Maxwell"
+            ],
+            "user": "User1"
+        },
+        "previous_hash": "8a449966c69a56e416122c0725a140b409ce14a32374e805e6298bf59125a0bf",
+        "hash": "a0e71e8b7019bbbdf1e6df439f0054970a897f8e18510b1cc4811a431bda02d9"
+    },
+    {
+        "index": 3,
+        "timestamp": "Wed Oct  8 17:10:09 2025",
+        "data": {
+            "team": [
+                "Rohit Sharma",
+                "KL Rahul",
+                "Virat Kohli",
+                "Ravindra Jadeja",
+                "Hardik Pandya",
+                "Jasprit Bumrah",
+                "David Warner",
+                "Travis Head",
+                "Pat Cummins",
+                "Josh Hazlewood",
+                "Jofra Archer"
+            ],
+            "user": "admin"
+        },
+        "previous_hash": "a0e71e8b7019bbbdf1e6df439f0054970a897f8e18510b1cc4811a431bda02d9",
+        "hash": "3b856aefd79d06d276a2063f7d7a1d14c7d9a5b669188439aeb6d37daa3959ee"
+    },
+    {
+        "index": 4,
+        "timestamp": "Wed Oct  8 17:34:26 2025",
+        "data": {
+            "team": [
+                "Rohit Sharma",
+                "Virat Kohli",
+                "Hardik Pandya",
+                "Jasprit Bumrah",
+                "Ravindra Jadeja",
+                "Pat Cummins",
+                "Glenn Maxwell",
+                "Travis Head",
+                "Jos Buttler",
+                "Mitchell Starc",
+                "Josh Hazlewood"
+            ],
+            "user": "admin",
+            "credits_used": 96
+        },
+        "previous_hash": "3b856aefd79d06d276a2063f7d7a1d14c7d9a5b669188439aeb6d37daa3959ee",
+        "hash": "9f0cda787292dd56d8d1d74f28c2f85d95e5c23c2e74c85da08b2400cd9490f0"
+    },
+    {
+        "index": 5,
+        "timestamp": "Wed Oct  8 18:17:39 2025",
+        "data": {
+            "team": [
+                "Rohit Sharma",
+                "Virat Kohli",
+                "Hardik Pandya",
+                "Ravindra Jadeja",
+                "Mohammed Shami",
+                "Jasprit Bumrah",
+                "Travis Head",
+                "Glenn Maxwell",
+                "Pat Cummins",
+                "Josh Hazlewood",
+                "Mitchell Starc"
+            ],
+            "user": "admin",
+            "credits_used": 95
+        },
+        "previous_hash": "9f0cda787292dd56d8d1d74f28c2f85d95e5c23c2e74c85da08b2400cd9490f0",
+        "hash": "6e5a13ea42e70c2c27f51b82bd5ec363697ea1f910e5038926c7359fadcac9e7"
+    }
+]
